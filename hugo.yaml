@@ -1,6 +1,6 @@
 # Hugo configuration file
-title: AIT Wiki
-baseURL: https://amblelabs.github.io/ait-wiki/
+title: Stargate Wiki
+baseURL: https://amblelabs.github.io/stargate-wiki/
 
 # import hextra as module
 module:
@@ -23,18 +23,15 @@ menu:
       url: "https://discord.com/invite/WjKhRjavCj"
       weight: 1
     - name: Modrinth
-      url: "https://modrinth.com/mod/ait"
+      url: "https://modrinth.com/mod/amble-stargate"
       weight: 2
-    - name: Curseforge
-      url: "https://www.curseforge.com/minecraft/mc-mods/adventures-in-time"
-      weight: 3
     - name: Search
       weight: 4
       params:
         type: search
     - name: GitHub
       weight: 5
-      url: "https://github.com/amblelabs/ait"
+      url: "https://github.com/amblelabs/stargate"
       params:
         icon: github
 
@@ -44,7 +41,7 @@ params:
     displayLogo: true
     logo:
       path: logo.png
-      link: /ait-wiki/
+      link: /stargate-wiki/
       width: 40
       height: 20
 
@@ -55,14 +52,14 @@ params:
 
   editURL:
     enable: true
-    base: "https://amblelabs.github.io/ait-wiki/edit/main/content"
+    base: "https://amblelabs.github.io/stargate-wiki/edit/main/content"
 
   comments:
     enable: true
     type: giscus
 
     giscus:
-      repo: amblelabs/ait-wiki
+      repo: amblelabs/stargate-wiki
       repoId: R_kgDOML5FAA
       category: General
       categoryId: DIC_kwDOML5FAM4CgOE1
