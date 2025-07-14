@@ -1,7 +1,6 @@
 ---
-title: Stub
+title: Stargate Wiki
 type: docs
-draft: true
 ---
 
 ![Forge](images/logo.png)
