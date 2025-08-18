@@ -42,6 +42,9 @@ components:
       - name: card
         label: Add Card
         component: card
+      - name: steps
+        label: Add Steps
+        component: steps
   any-image:
     label: Any Image
     type: block
