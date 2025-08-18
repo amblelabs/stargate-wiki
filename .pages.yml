@@ -18,6 +18,8 @@ content:
       #  type: rich-text
       - name: blocks
         component: any-block
+      - name: cards
+        component: cards
         
 components:
   any-block:
