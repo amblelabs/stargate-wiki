@@ -124,8 +124,4 @@ components:
         label: Text Content
         type: rich-text
         default: |
-          ### Step 1\n
-          ...
-          ### Step 2\n
-          ...
-          ### Step 3\n
+          ### Step 1
