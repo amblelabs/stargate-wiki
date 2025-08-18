@@ -123,15 +123,9 @@ components:
       - name: value
         label: Text Content
         type: rich-text
-        default: |-
+        default: |
           ### Step 1
-          
           ...
-
           ### Step 2
-
           ...
-
           ### Step 3
-
-          ...
