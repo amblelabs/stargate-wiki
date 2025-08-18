@@ -99,7 +99,7 @@ components:
         type: rich-text
   cards:
     label: Cards
-    type: text
+    component: card
     list: true
     #fields:
     #  - name: title
