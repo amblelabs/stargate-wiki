@@ -97,12 +97,12 @@ components:
         type: rich-text
   cards:
     label: Cards
-    type: object
+    type: image
     list: true
-    fields:
-      - name: title
-        label: Title
-        type: string
+    #fields:
+    #  - name: title
+    #    label: Title
+    #    type: string
   card:
     label: Card
     type: object
