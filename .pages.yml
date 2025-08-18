@@ -1,6 +1,6 @@
 media:
   input: content
-  output: /stargate-wiki/
+  output: /stargate-wiki
   categories: [image]
 content:
   - name: wiki
@@ -16,7 +16,7 @@ content:
       - name: blocks
         component: any-block
       - name: body
-        type: rich-text
+        type: text
         default: "<!-- DO NOT EDIT THIS -->"
         
 components:
