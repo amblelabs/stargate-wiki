@@ -16,7 +16,7 @@ content:
       - name: blocks
         component: any-block
       - name: body
-        type: text
+        type: string
         default: "<!-- DO NOT EDIT THIS -->"
         
 components:
