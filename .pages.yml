@@ -134,6 +134,7 @@ components:
     fields:
       - name: title
         label: Title
+        type: string
       - name: closed
         label: Closed
         type: boolean
