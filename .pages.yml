@@ -7,12 +7,12 @@ content:
     label: Wiki
     type: collection
     path: content
-    filename: "{slug}.md"
+    #filename: "{slug}.md"
     view:
       fields: [ title, slug ]
     fields:
       - { name: title, label: Title, type: string, required: true }
-      - { name: slug, label: Slug, type: string, required: true }
+      #- { name: slug, label: Slug, type: string, required: true }
       - { name: type, label: Type, type: select, required: true, options: { values: [docs] } }
       - name: body
         label: Body
