@@ -97,9 +97,12 @@ components:
         type: rich-text
   cards:
     label: Cards
-    type: object
-    fields:
-      - name: Card
+    type: block
+    list: true
+    blockKey: _type
+    blocks:
+      - name: card
+        label: Add Card
         component: card
   card:
     label: Card
