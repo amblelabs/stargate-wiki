@@ -115,4 +115,20 @@ components:
         component: any-image
   steps:
     label: Steps
-    component: markdown
+    type: object
+    fields:
+      - name: value
+        label: Text Content
+        type: rich-text
+        default: |
+          ### Step 1
+          
+          ...
+
+          ### Step 2
+
+          ...
+
+          ### Step 3
+
+          ...
