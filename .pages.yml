@@ -15,6 +15,9 @@ content:
       - { name: type, label: Type, type: select, required: true, options: { values: [docs, cms] }, default: cms, hidden: true }
       - name: blocks
         component: any-block
+      - name: body
+        type: rich-text
+        hidden: true
         
 components:
   any-block:
