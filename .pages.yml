@@ -76,4 +76,4 @@ components:
           values: [default, info, warning, error]
       - name: text
         label: Text
-        type: rich-text
+        component: markdown
