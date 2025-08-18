@@ -12,7 +12,7 @@ content:
       fields: [ title ]
     fields:
       - { name: title, label: Title, type: string, required: true }
-      - { name: type, label: Type, type: select, required: true, options: { values: [docs, cms] }, default: cms, hidden: true }
+      - { name: type, label: Type, type: select, required: true, options: { values: [docs, cms] }, default: cms }
       - name: blocks
         component: any-block
       - name: body
