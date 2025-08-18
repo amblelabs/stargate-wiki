@@ -74,6 +74,4 @@ components:
         type: select
         options:
           values: [default, info, warning, error]
-      - name: text
-        label: Text
-        component: markdown
+      - component: markdown
