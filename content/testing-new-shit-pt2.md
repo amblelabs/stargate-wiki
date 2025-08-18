@@ -1,6 +1,6 @@
 ---
 title: Testing new shit pt.2
-type: docs
+type: cms
 blocks:
   - _type: text
     value: |-
@@ -15,4 +15,7 @@ blocks:
       well
   - _type: callout
     type: default
+    value: some callout
+  - _type: cards
+    title: test
 ---
