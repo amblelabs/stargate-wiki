@@ -97,7 +97,7 @@ components:
         type: rich-text
   cards:
     label: Cards
-    type: image
+    type: text
     list: true
     #fields:
     #  - name: title
