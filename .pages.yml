@@ -17,8 +17,7 @@ content:
         component: any-block
       - name: body
         type: rich-text
-        options:
-          editable: false
+        default: "<!-- DO NOT EDIT THIS -->"
         
 components:
   any-block:
