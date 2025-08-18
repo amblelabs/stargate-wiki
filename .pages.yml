@@ -45,6 +45,9 @@ components:
       - name: steps
         label: Add Steps
         component: steps
+      - name: details
+        label: Add Details
+        component: details
   any-image:
     label: Any Image
     type: block
