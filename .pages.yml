@@ -7,7 +7,7 @@ content:
     label: Wiki
     type: collection
     path: content
-    #filename: "{slug}.md"
+    filename: "{primary}.md"
     view:
       fields: [ title, slug ]
     fields:
