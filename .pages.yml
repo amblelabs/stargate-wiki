@@ -1,6 +1,6 @@
 media:
   input: content
-  output: /stargate-wiki
+  output: /
   categories: [image]
 content:
   - name: wiki
@@ -12,8 +12,7 @@ content:
       fields: [ title, slug ]
     fields:
       - { name: title, label: Title, type: string, required: true }
-      #- { name: slug, label: Slug, type: string, required: true }
-      - { name: type, label: Type, type: select, required: true, options: { values: [docs] } }
+      - { name: type, label: Type, type: select, required: true, options: { values: [docs] }, default: docs }
       - name: body
         label: Body
         type: rich-text
