@@ -57,7 +57,7 @@ In this mod there is 4 gate types `Milkyway`, `Pegasus`, `Universe`, and `Orlin`
 
 ### Orlin
 ![orlin](images/orlin.png)
-- This is the smallest of all the gates and also has no [DHD](https://amblelabs.github.io/stargate-wiki/blocks/dhd/). But is unique as it is build with blocks (not forgetting the toaster of course).
+- This is the smallest of all the gates and also has no [DHD](https://amblelabs.github.io/stargate-wiki/blocks/dhd/). But is unique as it is built with blocks (not forgetting the toaster of course).
 
 
 
@@ -72,7 +72,7 @@ If you didnt know, gates are basically used as one way transportation but there 
 
 ### Wormholes
 
-- A wormhole is what you "travel" throught when entering an active stargate. In game it looks like **this** but will change color depending on the gate type. In survival if you; go into the reciving gates wormhole, OR walk into the kawoosh. YOU WILL DIE (if you are are in creative mod, you will be just fine. Also in creative you can go through both ways of an active stargate)
+- A wormhole is what you "travel" throught when entering an active stargate. In game it looks like **this** but will change color depending on the gate type. In survival if you; go into the receiving gates wormhole, OR walk into the kawoosh. YOU WILL DIE (if you are in creative mode, you will be just fine. Also in creative you can go through both ways of an active stargate)
 
 ![wormhole](images/wormhole.png)
 
@@ -86,13 +86,13 @@ If you didnt know, gates are basically used as one way transportation but there 
 `THIS IS TEMP AND PROBS WILL CHANGE!`
 
 >```
->Gold - Tier 0 (Breaks instantly, gives achievement "Did you really think that would work?")
->Copper - Tier 1 (25 durability, nearly destroyed by kawoosh, max temp 250°C)
->Iron - Tier 2 (50 durability, takes one quarter durability from kawoosh, max temp 300°C)
->Diamond - Tier 3 (150 durability, no kawoosh damage, max temp 700°C)
->Netherite - Tier 4 (250 durability, no kawoosh damage, max temp 800°C)
->Naquadah - Tier 5 (1000 durability, no kawoosh damage, max temp 1500°C)
->Energy Shield - Tier 6 (Consume power from an FE buffer if a mod with energy production is >installed, otherwise just has infinite durability)
+>Gold - Tier 0: Breaks instantly
+>Copper - Tier 1: 25 durability, nearly destroyed by kawoosh, max temp 250°C
+>Iron - Tier 2: 50 durability, takes one quarter durability from kawoosh, max temp 300°C
+>Diamond - Tier 3: 150 durability, no kawoosh damage, max temp 700°C
+>Netherite - Tier 4: 250 durability, no kawoosh damage, max temp 800°C
+>Naquadah - Tier 5: 1000 durability, no kawoosh damage, max temp 1500°C
+>Energy Shield - Tier 6: Consume power from an FE buffer if a mod with energy production is >installed, otherwise just has infinite durability
 >```
 
 - 
