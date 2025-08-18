@@ -40,8 +40,8 @@ components:
       - name: callout
         label: Add Callout
         component: callout
-      - name: Cards
-        label: Cards
+      - name: cards
+        label: Add Cards
         component: cards
   any-image:
     label: Any Image
