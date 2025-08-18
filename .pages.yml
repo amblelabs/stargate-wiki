@@ -99,7 +99,7 @@ components:
     label: Cards
     type: block
     list: true
-    blockKey: _type
+    blockKey: _cards
     blocks:
       - name: bingle-bongle
         component: markdown
