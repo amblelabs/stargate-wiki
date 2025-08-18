@@ -105,8 +105,11 @@ components:
       - name: title
         label: Title
         type: string
-      #- name: image
-      #  component: any-image
+      - name: subtitle
+        label: Subtitle
+        type: rich-text
+      - name: image
+        component: any-image
 
 settings: 
   content: 
