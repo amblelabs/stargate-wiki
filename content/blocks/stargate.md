@@ -3,8 +3,13 @@ title: Stargate
 type: docs
 ---
 
+This will tell you EVERYTHING a Stargate can do. Such as:
 
-# Obtaining a Stargate? ** TBT **
+- [Gate Types](https://amblelabs.github.io/stargate-wiki/blocks/stargate/#gate-types)
+- [Gate Functions](https://amblelabs.github.io/stargate-wiki/blocks/stargate/#basic-gate-functions)
+
+
+## Obtaining a Stargate? ** TBT **
 
 In this mod Stargates are found naturally. They can spawn in many biomes and dimensions, including:
 >```
@@ -37,7 +42,7 @@ In this mod there is 4 gate types `Milkyway`, `Pegasus`, `Universe`, and `Orlin`
 
 ![milkyway](images/milkyway.png)
 
-- This gate is the more know one. When dialing, Each `Chevron`will light up when you press a symbol on the dhd. However, if you use `insert mod or feature name here` the gates inner ring will spin till the selected symbol reaches the top `Chevron` Until it `dials` all symbols inputed on the [DHD](content/blocks/dhd.md)
+- This gate is the more know one. When dialing, Each `Chevron`will light up when you press a symbol on the dhd. However, if you use `insert mod or feature name here` the gates inner ring will spin till the selected symbol reaches the top `Chevron` Until it `dials` all symbols inputed on the [DHD](content/blocks/dhd.md).
 
 ### Pegasus
 ![pegaSUS](images/pegaSUS.png)
@@ -45,7 +50,7 @@ In this mod there is 4 gate types `Milkyway`, `Pegasus`, `Universe`, and `Orlin`
 
 ### Universe
 ![universe](images/universe.png)
-- This being the first gate ever made, it is more "rustic". The whole gate spins for this type, it rotates until the symbol is at the top of the gate, then it glows. The `wormhole` is also completely differnt to the others. It being more "greyscale" than the others. It also has NO [DHD](content/blocks/dhd.md)
+- This being the first gate ever made, it is more "rustic". The whole gate spins for this type, it rotates until the symbol is at the top of the gate, then it glows. The `wormhole` is also completely differnt to the others. It being more "greyscale" than the others. It also has NO [DHD](content/blocks/dhd.md)!
 
 ### Orlin
 ![orlin](images/orlin.png)
@@ -56,7 +61,7 @@ In this mod there is 4 gate types `Milkyway`, `Pegasus`, `Universe`, and `Orlin`
 ----
 
 
-# Gate Mechanics
+## Gate Mechanics
 
 If you didnt know, gates are basically used as one way transportation but there is so much more behind them. 
 
@@ -68,6 +73,26 @@ If you didnt know, gates are basically used as one way transportation but there 
 
 ![wormhole](images/wormhole.png)
 
+
 ### Irises
 
-- smth smth, you die and they are both good and bad for you
+![iris](images/irisdefault.png)
+
+- This is the ultimate defence agains unwanted guests coming through your stargate. Irises come in a range of different types, each type will last longer based on the tier that your gate has.
+
+`THIS IS TEMP AND PROBS WILL CHANGE!`
+
+>```
+>Gold - Tier 0 (Breaks instantly, gives achievement "Did you really think that would work?")
+>Copper - Tier 1 (25 durability, nearly destroyed by kawoosh, max temp 250°C)
+>Iron - Tier 2 (50 durability, takes one quarter durability from kawoosh, max temp 300°C)
+>Diamond - Tier 3 (150 durability, no kawoosh damage, max temp 700°C)
+>Netherite - Tier 4 (250 durability, no kawoosh damage, max temp 800°C)
+>Naquadah - Tier 5 (1000 durability, no kawoosh damage, max temp 1500°C)
+>Energy Shield - Tier 6 (Consume power from an FE buffer if a mod with energy production is >installed, otherwise just has infinite durability)
+>```
+
+- 
+
+
+
