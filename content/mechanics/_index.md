@@ -1,1 +1,7 @@
+---
+title: Mechanics
+type: docs
+---
+
+
 See how the stargates really work and all the extra cosmetics and functions you can add to it like the [Iris](https://amblelabs.github.io/stargate-wiki/mechanics/iris/)!
