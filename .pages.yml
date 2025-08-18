@@ -13,13 +13,8 @@ content:
     fields:
       - { name: title, label: Title, type: string, required: true }
       - { name: type, label: Type, type: select, required: true, options: { values: [docs, cms] }, default: cms, hidden: true }
-      #- name: body
-      #  label: Body
-      #  type: rich-text
       - name: blocks
         component: any-block
-      - name: cards
-        component: cards
         
 components:
   any-block:
