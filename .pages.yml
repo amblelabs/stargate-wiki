@@ -117,4 +117,4 @@ components:
 
 settings: 
   content: 
-    merge: true
+    merge: false
