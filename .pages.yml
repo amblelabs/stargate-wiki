@@ -39,7 +39,11 @@ content:
 components:
   markdown:
     label: Markdown
-    type: rich-text
+    type: object
+    fields:
+      - name: value
+        label: Text Content
+        type: rich-text
   alt-image:
     label: Image
     type: object
