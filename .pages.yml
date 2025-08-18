@@ -97,13 +97,8 @@ components:
         type: rich-text
   cards:
     label: Cards
-    type: block
     list: true
-    blockKey: _cards
-    blocks:
-      - name: card
-        label: Add Card
-        component: card
+    component: card
   card:
     label: Card
     type: object
