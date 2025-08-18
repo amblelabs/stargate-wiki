@@ -17,7 +17,8 @@ content:
         component: any-block
       - name: body
         type: rich-text
-        hidden: true
+        options:
+          editable: false
         
 components:
   any-block:
