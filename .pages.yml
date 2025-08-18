@@ -36,6 +36,9 @@ content:
               - name: content
                 label: Text Content
                 type: rich-text
+          - name: callout
+            label: Add Callout
+            component: callout
 components:
   alt-image:
     label: Image
