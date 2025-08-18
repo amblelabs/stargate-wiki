@@ -25,7 +25,9 @@ components:
   any-block:
     label: Body
     type: block
-    list: true
+    list:
+      collapsible:
+        summary: "{title} ({index})"
     blockKey: _type # Optional: customize the key used to store the block name, defaults to `_block`
     blocks:
       # Each item defines a possible block structure the user can select.
@@ -42,9 +44,9 @@ components:
       - name: callout
         label: Add Callout
         component: callout
-      - name: cards
-        label: Add Cards
-        component: cards
+      - name: card
+        label: Add Card
+        component: card
   any-image:
     label: Any Image
     type: block
@@ -101,10 +103,6 @@ components:
     label: Cards
     component: card
     list: true
-    #fields:
-    #  - name: title
-    #    label: Title
-    #    type: string
   card:
     label: Card
     type: object
