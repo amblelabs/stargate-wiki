@@ -57,3 +57,16 @@ components:
       - name: alt
         label: ALT text
         type: string
+  callout:
+    label: Callout
+    type: object
+    fields:
+      - name: type
+        label: Type
+        default: default
+        type: select
+        options:
+          values: [default, info, warning, error]
+      - name: text
+        label: Text
+        type: rich-text
