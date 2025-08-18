@@ -40,6 +40,18 @@ components:
       - name: callout
         label: Add Callout
         component: callout
+  any-image:
+    label: Any Image
+    type: block
+    list: false
+    blockKey: _type
+    blocks:
+      - name: local-image
+        label: Add Local Image
+        component: alt-image
+      - name: remote-image
+        label: Add Remote Image
+        component: remote-image
   markdown:
     label: Markdown
     type: object
@@ -90,5 +102,8 @@ components:
     label: Card
     type: object
     fields:
-      - name: value
-        component: 
+      - name: title
+        label: Title
+        type: string
+      - name: image
+        component: any-image
