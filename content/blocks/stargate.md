@@ -3,13 +3,16 @@ title: Stargate
 type: docs
 ---
 
-This will tell you EVERYTHING a Stargate can do. Such as:
+### This will tell you EVERYTHING a Stargate can do. Such as:
 
-- [Gate Types](https://amblelabs.github.io/stargate-wiki/blocks/stargate/#gate-types)
-- [Gate Functions](https://amblelabs.github.io/stargate-wiki/blocks/stargate/#basic-gate-functions)
+Here is a small guide for this page (there is quite a bit of information)
+
+|- [Obtaining Gates](https://amblelabs.github.io/stargate-wiki/blocks/stargate/#obtaining-a-stargate)
+|- [Gate Types](https://amblelabs.github.io/stargate-wiki/blocks/stargate/#gate-types)
+|- [Gate Functions](https://amblelabs.github.io/stargate-wiki/blocks/stargate/#gate-mechanics)
 
 
-## Obtaining a Stargate? ** TBT **
+## Obtaining a Stargate?
 
 In this mod Stargates are found naturally. They can spawn in many biomes and dimensions, including:
 >```
@@ -42,7 +45,7 @@ In this mod there is 4 gate types `Milkyway`, `Pegasus`, `Universe`, and `Orlin`
 
 ![milkyway](images/milkyway.png)
 
-- This gate is the more know one. When dialing, Each `Chevron`will light up when you press a symbol on the dhd. However, if you use `insert mod or feature name here` the gates inner ring will spin till the selected symbol reaches the top `Chevron` Until it `dials` all symbols inputed on the [DHD](content/blocks/dhd.md).
+- This gate is the more know one. When dialing, Each `Chevron` will light up when you press a symbol on the dhd. However, if you use `insert mod or feature name here` the gates inner ring will spin till the selected symbol reaches the top `Chevron` Until it `dials` all symbols inputed on the [DHD](content/blocks/dhd.md).
 
 ### Pegasus
 ![pegaSUS](images/pegaSUS.png)
