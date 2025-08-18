@@ -108,9 +108,11 @@ components:
       - name: subtitle
         label: Subtitle
         type: rich-text
+      - name: link
+        label: Link
+        type: string
       - name: image
         component: any-image
-
-settings: 
-  content: 
-    merge: false
+  steps:
+    label: Steps
+    component: markdown
