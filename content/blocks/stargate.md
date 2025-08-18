@@ -95,7 +95,10 @@ If you didnt know, gates are basically used as one way transportation but there 
 >Energy Shield - Tier 6: Consume power from an FE buffer if a mod with energy production is >installed, otherwise just has infinite durability
 >```
 
-- 
+### Other Gate Functions
+
+smth about using it as a trash bin in a volcaino 
+and that you can place them horizontally
 
 
 
