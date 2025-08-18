@@ -32,14 +32,14 @@ content:
             component: remote-image
           - name: text
             label: Add Text Block
-            fields:
-              - name: content
-                label: Text Content
-                type: rich-text
+            component: markdown
           - name: callout
             label: Add Callout
             component: callout
 components:
+  markdown:
+    label: Markdown
+    type: rich-text
   alt-image:
     label: Image
     type: object
