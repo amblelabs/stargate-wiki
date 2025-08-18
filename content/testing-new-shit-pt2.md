@@ -2,9 +2,9 @@
 title: Testing new shit pt.2
 type: docs
 blocks:
-  - _block: text
+  - _type: text
     content: text
-  - _block: callout
+  - _type: callout
     type: default
-    text: some callout!
+    text: Callout!
 ---
