@@ -101,6 +101,8 @@ components:
     list: true
     blockKey: _type
     blocks:
+      - name: bingle-bongle
+        component: markdown
       - name: card
         label: Add Card
         component: card
