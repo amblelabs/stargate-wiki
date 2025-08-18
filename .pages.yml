@@ -19,7 +19,7 @@ content:
         type: text
         default: "<!-- DO NOT EDIT THIS -->"
         options:
-          rows: 10
+          rows: 1
           autoresize: false
         
 components:
