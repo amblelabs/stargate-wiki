@@ -1,7 +1,7 @@
 {{ if eq .block._type "text" }}
     {{ .block.value | markdownify }} 
-{{ else if eq ._type "local-image" }}
-    <img src="{{ .link }}" alt="{{ .alt }}" />
+{{ else if eq .block._type "local-image" }}
+    <img src="{{ .block.src }}" alt="{{ .block.alt }}" />
 {{ else if eq .block._type "callout" }}
     {{- $calloutEmojiDict := dict "info" "ℹ️" "warning" "⚠️" "error" "🚫" -}}
     {{- $type := .block.type | default "default" -}}

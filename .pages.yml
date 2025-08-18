@@ -1,6 +1,6 @@
 media:
   input: content
-  output: /
+  output: /stargate-wiki/
   categories: [image]
 content:
   - name: wiki
