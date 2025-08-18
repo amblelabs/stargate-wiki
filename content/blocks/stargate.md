@@ -45,19 +45,19 @@ In this mod there is 4 gate types `Milkyway`, `Pegasus`, `Universe`, and `Orlin`
 
 ![milkyway](images/milkyway.png)
 
-- This gate is the more know one. When dialing, Each `Chevron` will light up when you press a symbol on the dhd. However, if you use `insert mod or feature name here` the gates inner ring will spin till the selected symbol reaches the top `Chevron` Until it `dials` all symbols inputed on the [DHD](content/blocks/dhd.md).
+- This gate is the more know one. When dialing, Each `Chevron` will light up when you press a symbol on the dhd. However, if you use `insert mod or feature name here` the gates inner ring will spin till the selected symbol reaches the top `Chevron` Until it `dials` all symbols inputed on the [DHD](https://amblelabs.github.io/stargate-wiki/blocks/dhd/).
 
 ### Pegasus
 ![pegaSUS](images/pegaSUS.png)
-- This gate is all about LEDs, its inner ring doesnt spin at all. Instead each symbol will light up then spin (yes even with a [DHD](content/blocks/dhd.md)). Its `wormhole` is also a different color compaired to the `Milkyway` gate.
+- This gate is all about LEDs, its inner ring doesnt spin at all. Instead each symbol will light up then spin (yes even with a [DHD](https://amblelabs.github.io/stargate-wiki/blocks/dhd/)). Its `wormhole` is also a different color compaired to the `Milkyway` gate.
 
 ### Universe
 ![universe](images/universe.png)
-- This being the first gate ever made, it is more "rustic". The whole gate spins for this type, it rotates until the symbol is at the top of the gate, then it glows. The `wormhole` is also completely differnt to the others. It being more "greyscale" than the others. It also has NO [DHD](content/blocks/dhd.md)!
+- This being the first gate ever made, it is more "rustic". The whole gate spins for this type, it rotates until the symbol is at the top of the gate, then it glows. The `wormhole` is also completely differnt to the others. It being more "greyscale" than the others. It also has NO [DHD](https://amblelabs.github.io/stargate-wiki/blocks/dhd/)!
 
 ### Orlin
 ![orlin](images/orlin.png)
-- This is the smallest of all the gates and also has no [DHD](content/blocks/dhd.md). But is unique as it is build with blocks (not forgetting the toaster of course).
+- This is the smallest of all the gates and also has no [DHD](https://amblelabs.github.io/stargate-wiki/blocks/dhd/). But is unique as it is build with blocks (not forgetting the toaster of course).
 
 
 
