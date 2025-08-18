@@ -125,3 +125,18 @@ components:
         type: rich-text
         default: |
           ### Step 1
+  details:
+    label: Details
+    type: object
+    fields:
+      - name: title
+        label: Title
+      - name: closed
+        label: Closed
+        type: boolean
+        default: true
+      - name: value
+        label: Text Content
+        type: rich-text
+        default: |
+          ### Step 1
