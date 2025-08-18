@@ -4,4 +4,4 @@ type: docs
 ---
 Test
 
-![](/stargate-wiki/clapping-gif.gif)
+![](/clapping-gif.gif)
