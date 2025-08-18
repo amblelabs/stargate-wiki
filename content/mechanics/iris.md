@@ -4,11 +4,10 @@ type: docs
 ---
 
 
-### Irises
 
 ![iris](images/irisdefault.png)
 
-- This is the ultimate defence agains unwanted guests coming through your stargate. Irises come in a range of different types, each type will last longer based on the tier that your gate has.
+This is the ultimate defence agains unwanted guests coming through your stargate. Irises come in a range of different types, each type will last longer based on the tier that your gate has.
 
 `THIS IS TEMP AND PROBS WILL CHANGE!`
 
@@ -21,3 +20,9 @@ type: docs
 >Naquadah - Tier 5: 1000 durability, no kawoosh damage, max temp 1500°C
 >Energy Shield - Tier 6: Consume power from an FE buffer if a mod with energy production is >installed, otherwise just has infinite durability
 >```
+
+---
+
+### Recipes:
+
+`INSERT IMAGES HERE`
