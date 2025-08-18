@@ -3,7 +3,7 @@ title: Stargate
 type: docs
 ---
 
-### This will tell you EVERYTHING a Stargate can do. Such as:
+### This will tell you EVERYTHING a Stargate can do!
 
 Here is a small guide for this page (there is quite a bit of information)
 
