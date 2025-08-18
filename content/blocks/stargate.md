@@ -3,15 +3,6 @@ title: Stargate
 type: docs
 ---
 
-### This will tell you EVERYTHING a Stargate can do!
-
-Here is a small guide for this page (there is quite a bit of information)
-
-|- [Obtaining Gates](https://amblelabs.github.io/stargate-wiki/blocks/stargate/#obtaining-a-stargate)
-|- [Gate Types](https://amblelabs.github.io/stargate-wiki/blocks/stargate/#gate-types)
-|- [Gate Functions](https://amblelabs.github.io/stargate-wiki/blocks/stargate/#gate-mechanics)
-
-
 ## Obtaining a Stargate?
 
 In this mod Stargates are found naturally. They can spawn in many biomes and dimensions, including:
@@ -37,6 +28,14 @@ Burried Gates ONLY spawn in deserts and will be horizontal in the ground, requir
 
 -----------
 
+### Placing the Horizontally
+
+`INSERT IMAGE HERE`
+
+- Like in the show(s), gates can be placed horizontally. Perfect for a sacrificial pit or a volcano trash can :D
+
+----
+
 ## Gate Types
 
 In this mod there is 4 gate types `Milkyway`, `Pegasus`, `Universe`, and `Orlin`. Although they all have the same function, they are each very different.
@@ -59,46 +58,6 @@ In this mod there is 4 gate types `Milkyway`, `Pegasus`, `Universe`, and `Orlin`
 ![orlin](images/orlin.png)
 - This is the smallest of all the gates and also has no [DHD](https://amblelabs.github.io/stargate-wiki/blocks/dhd/). But is unique as it is built with blocks (not forgetting the toaster of course).
 
-
-
-----
-
-
-## Gate Mechanics
-
-If you didnt know, gates are basically used as one way transportation but there is so much more behind them. 
-
-### Basic Gate Functions
-
-### Wormholes
-
-- A wormhole is what you "travel" throught when entering an active stargate. In game it looks like **this** but will change color depending on the gate type. In survival if you; go into the receiving gates wormhole, OR walk into the kawoosh. YOU WILL DIE (if you are in creative mode, you will be just fine. Also in creative you can go through both ways of an active stargate)
-
-![wormhole](images/wormhole.png)
-
-
-### Irises
-
-![iris](images/irisdefault.png)
-
-- This is the ultimate defence agains unwanted guests coming through your stargate. Irises come in a range of different types, each type will last longer based on the tier that your gate has.
-
-`THIS IS TEMP AND PROBS WILL CHANGE!`
-
->```
->Gold - Tier 0: Breaks instantly
->Copper - Tier 1: 25 durability, nearly destroyed by kawoosh, max temp 250°C
->Iron - Tier 2: 50 durability, takes one quarter durability from kawoosh, max temp 300°C
->Diamond - Tier 3: 150 durability, no kawoosh damage, max temp 700°C
->Netherite - Tier 4: 250 durability, no kawoosh damage, max temp 800°C
->Naquadah - Tier 5: 1000 durability, no kawoosh damage, max temp 1500°C
->Energy Shield - Tier 6: Consume power from an FE buffer if a mod with energy production is >installed, otherwise just has infinite durability
->```
-
-### Other Gate Functions
-
-smth about using it as a trash bin in a volcaino 
-and that you can place them horizontally
 
 
 

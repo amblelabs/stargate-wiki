@@ -1,0 +1,13 @@
+---
+title: Wormholes / Kawoosh
+type: docs
+---
+
+
+
+### Wormholes / Kawoosh
+
+![wormhole](images/wormhole.png)
+
+- A wormhole is what you "travel" throught when entering an active stargate. In game it looks like **this** but will change color depending on the gate type. In survival if you; go into the receiving gates wormhole, OR walk into the kawoosh. YOU WILL DIE (if you are in creative mode, you will be just fine. Also in creative you can go through both ways of an active stargate)
+
