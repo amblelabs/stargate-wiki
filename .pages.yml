@@ -111,5 +111,5 @@ components:
       - name: title
         label: Title
         type: string
-      - name: image
-        component: any-image
+      #- name: image
+      #  component: any-image
