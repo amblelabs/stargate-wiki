@@ -42,7 +42,8 @@ components:
         component: callout
       - name: cards
         label: Add Cards
-        component: cards
+        component: card
+        list: true
   any-image:
     label: Any Image
     type: block
