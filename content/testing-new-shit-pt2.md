@@ -16,6 +16,8 @@ blocks:
   - _type: callout
     type: default
     value: some callout
-  - _type: cards
-    title: test
+  - _type: details
+    title: secret stuff
+    closed: true
+    value: some details
 ---
