@@ -71,7 +71,8 @@ components:
     type: object
     fields:
       - name: _name
-        label: Name
+        label: Section Label
+        description: Not actually included in the wiki. Exists only to make the collapsed sections more readable.
         type: string
       - name: value
         label: Text Content
