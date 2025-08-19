@@ -85,16 +85,6 @@ blocks:
       \### Milkyway
 
 
-      ![](/stargate-wiki/blocks/images/milkyway.png)
-
-
-      \- This gate is the more know one. When dialing, Each `Chevron` will light
-      up when you press a symbol on the dhd. However, if you use `insert mod or
-      feature name here` the gates inner ring will spin till the selected symbol
-      reaches the top `Chevron` Until it `dials` all symbols inputed on the
-      \[DHD\]([https://amblelabs.github.io/stargate-wiki/blocks/dhd/](https://amblelabs.github.io/stargate-wiki/blocks/dhd/)).
-
-
       \### Pegasus
 
 
@@ -130,4 +120,17 @@ blocks:
       \[DHD\]([/stargate-wiki/blocks/dhd/](https://amblelabs.github.io/stargate-wiki/blocks/dhd/)).
       But is unique as it is built with blocks (not forgetting the toaster of
       course).
+  - _type: text
+    value: >-
+      ### Milky Way
+
+
+      ![](/stargate-wiki/blocks/images/milkyway.png)
+
+
+      \- This gate is the more know one. When dialing, Each `Chevron` will light
+      up when you press a symbol on the dhd. However, if you use `insert mod or
+      feature name here` the gates inner ring will spin till the selected symbol
+      reaches the top `Chevron` Until it `dials` all symbols inputed on the
+      \[DHD\]([https://amblelabs.github.io/stargate-wiki/blocks/dhd/](https://amblelabs.github.io/stargate-wiki/blocks/dhd/)).
 ---
