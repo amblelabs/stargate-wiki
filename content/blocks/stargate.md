@@ -43,7 +43,7 @@ blocks:
 
       *   Buried Gates ONLY spawn in deserts and will be horizontal in the
       ground, requiring you to dig them out!
-          
+
 
       `INSERT IMAGE HERE`
   - _type: text
@@ -55,7 +55,7 @@ blocks:
       *   Like in the show(s), gates can be placed horizontally. Perfect for a
       sacrificial pit or a volcano trash can :D. To place a gate horizontally,
       do ...!
-          
+
 
       `INSERT IMAGE HERE`
   - _type: text
@@ -110,9 +110,20 @@ blocks:
       ### Orlin:
 
 
-      *   his is the smallest of all the gates and also has no DHD. But is
+      *   This is the smallest of all the gates and also has no DHD. But is
       unique as it is built with blocks (not forgetting the toaster of course).
   - _type: local-image
     src: /stargate-wiki/blocks/images/orlin.png
     alt: Orlin
+  - _type: text
+    alt: Make Orlin
+    value: >-
+      ### How do i make the Orlin gate?
+
+
+      *   You make it by building the structure seen bellow, then `right-click`
+      the toaster in the middle!
+  - _type: local-image
+    src: /stargate-wiki/blocks/images/orlinblocks.png
+    alt: Orlin Blocks
 ---
