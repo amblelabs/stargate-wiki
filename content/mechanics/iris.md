@@ -9,7 +9,7 @@ blocks:
     alt: Content
     value: >-
       This is the ultimate defense against unwanted guests coming through your
-      stargate. Irises come in a range of different types, each type will last
+      Stargate. Irises come in a range of different types, each type will last
       longer based on the tier that your gate has.
 
 
@@ -45,7 +45,7 @@ blocks:
 ---
 ![iris](images/irisdefault.png)
 
-This is the ultimate defence agains unwanted guests coming through your stargate. Irises come in a range of different types, each type will last longer based on the tier that your gate has.
+This is the ultimate defense against unwanted guests coming through your Stargate. Irises come in a range of different types, each type will last longer based on the tier that your gate has.
 
 `THIS IS TEMP AND PROBS WILL CHANGE!`
 
