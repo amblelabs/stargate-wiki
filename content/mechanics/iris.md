@@ -3,7 +3,7 @@ title: Irises
 type: cms
 blocks:
   - _type: remote-image
-    src: irisdefault.png
+    src: content/mechanics/images/irisdefault.png
     alt: irisdefault
   - _type: text
     alt: Content
