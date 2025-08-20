@@ -16,10 +16,10 @@ blocks:
       address, you then press the big red button in the middle and the gate will
       activate.
           
-      *   You can also use an \[Address
-      Cartouche\](../../items/address\_cartouche/) on a DHD to automatically
-      dial that address (you will however still need to press the activation
-      button)!
+      *   You can also use an [Address
+      Cartouche](https://amblelabs.github.io/stargate-wiki/items/address_cartouche/)
+      on a DHD to automatically dial that address (you will however still need
+      to press the activation button)!
   - _type: local-image
     src: /stargate-wiki/blocks/images/dhd_active.png
     alt: DHD on
