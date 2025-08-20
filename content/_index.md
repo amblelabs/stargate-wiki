@@ -1,5 +1,7 @@
 ---
 title: Stargate Wiki
+cascade:
+  type: docs
 blocks:
   - _type: local-image
     src: /stargate-wiki/images/logo.png
