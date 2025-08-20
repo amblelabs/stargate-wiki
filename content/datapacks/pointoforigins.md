@@ -16,6 +16,7 @@ type: cms
 > `data/stargate/point_of_origin/dimension_name.json`
 
 *   Inside this new .json file, paste
+    
 
 > ```json
 > {
@@ -30,7 +31,7 @@ type: cms
     
 
 > ```
-> A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ ] { } : ; $ ( ) %
+> A B C D E G H I J K L M N O P R S T U V X Y Z [ ] { } : ; $ ( ) %
 > ```
 
 *   You can use something like this [HERE](https://lingojam.com/StandardGalacticAlphabet) to translate the letter you chose so you can see what symbol to press on the DHD in game.
