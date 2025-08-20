@@ -35,4 +35,15 @@ blocks:
   - _type: local-image
     src: /stargate-wiki/blocks/images/stargate.png
     alt: plinth
+  - _type: text
+    alt: Buried Gates
+    value: >-
+      ### Buried Gates:
+
+
+      *   Buried Gates ONLY spawn in deserts and will be horizontal in the
+      ground, requiring you to dig them out!
+          
+
+      `NEEDS IMAGE`
 ---
