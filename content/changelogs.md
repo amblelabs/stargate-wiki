@@ -1,8 +1,7 @@
 ---
 title: Update ChangeLogs
-type: docs
+type: cms
 ---
-
 ## VER NUMBER
 
 Insert log here
