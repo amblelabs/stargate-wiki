@@ -1,6 +1,6 @@
 ---
 title: DHD
-type: cms
+type: docs
 blocks:
   - _type: local-image
     src: /stargate-wiki/blocks/images/dhd_off.png
