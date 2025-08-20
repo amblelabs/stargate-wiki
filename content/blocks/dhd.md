@@ -39,4 +39,5 @@ blocks:
       *   You make one in a crafting table, like this!
   - _type: local-image
     src: /stargate-wiki/blocks/images/dhdrecipe.png
+    alt: recipe
 ---
