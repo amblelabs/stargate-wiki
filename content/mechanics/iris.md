@@ -2,9 +2,9 @@
 title: Irises
 type: cms
 blocks:
-  - _type: remote-image
-    src: content/mechanics/images/irisdefault.png
-    alt: irisdefault
+  - _type: text
+    alt: Irisdefault
+    value: "!\\[iris\\](images/irisdefault.png)"
   - _type: text
     alt: Content
     value: >-
