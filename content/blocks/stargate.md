@@ -124,6 +124,6 @@ blocks:
       *   You make it by building the structure seen bellow, then `right-click`
       the toaster in the middle!
   - _type: local-image
-    src: /stargate-wiki/blocks/images/orlinblocks.png
+    src: /stargate-wiki/blocks/images/orlinblock.png
     alt: Orlin Blocks
 ---
