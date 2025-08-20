@@ -33,7 +33,10 @@ blocks:
       symbol)
   - _type: text
     alt: Recipes
-    value: "## How do I make a DHD?"
+    value: |-
+      ## How do I make a DHD?
+
+      *   You make one in a crafting table, like this!
   - _type: local-image
     src: /stargate-wiki/blocks/images/dhdrecipe.png
 ---
