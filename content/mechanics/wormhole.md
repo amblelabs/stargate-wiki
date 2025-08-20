@@ -6,6 +6,9 @@ blocks:
     src: /stargate-wiki/mechanics/wormhole.png
     alt: wormhole
   - _type: text
+    alt: Update Image
+    value: "`UPDATE THIS IMAGE ^`"
+  - _type: text
     alt: Content
     value: >-
       A wormhole is what you "travel" through when entering an active Stargate.
@@ -18,6 +21,9 @@ blocks:
       Also in creative you can go through both ways of an active Stargate).
       There is also some unique `death messages` if you die to either of these
       features!
+  - _type: text
+    alt: KAWOOSH
+    value: "`ADD IMAGE OF KAWOOSH (WITH SHADERS)`"
 ---
 `UPDATE THIS IMAGE!`
 
