@@ -1,7 +1,5 @@
 ---
 title: DHD
-type: docs
+type: cms
 ---
-
-
 ## COMING SOON
