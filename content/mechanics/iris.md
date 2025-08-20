@@ -1,6 +1,10 @@
 ---
 title: Irises
 type: cms
+blocks:
+  - _type: remote-image
+    src: irisdefault.png
+    alt: irisdefault
 ---
 ![iris](images/irisdefault.png)
 
