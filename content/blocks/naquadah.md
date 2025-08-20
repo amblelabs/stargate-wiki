@@ -1,7 +1,5 @@
 ---
 title: Naqua
-type: docs
+type: cms
 ---
-
-
 ## COMING SOON
