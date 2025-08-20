@@ -6,9 +6,6 @@ blocks:
     src: /stargate-wiki/mechanics/irisdefault.png
     alt: irisdefault
   - _type: text
-    alt: Irisdefault
-    value: "!\\[iris\\](images/irisdefault.png)"
-  - _type: text
     alt: Content
     value: >-
       This is the ultimate defense against unwanted guests coming through your
