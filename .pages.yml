@@ -2,6 +2,9 @@ media:
   input: content
   output: /stargate-wiki
   categories: [image]
+settings:
+  content:
+    merge: true
 content:
   - name: wiki
     label: Wiki
