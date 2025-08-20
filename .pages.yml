@@ -9,18 +9,16 @@ content:
     path: content
     filename: "{primary}.md"
     view:
-      fields: [ title ]
+      fields: [ title, type ]
     fields:
       - { name: title, label: Title, type: string, required: true }
       - { name: type, label: Type, type: select, required: true, options: { values: [docs, cms] }, default: cms }
       - name: blocks
         component: any-block
       - name: body
-        type: text
-        default: "<!-- DO NOT EDIT THIS -->"
-        options:
-          rows: 1
-          autoresize: false
+        label: Plain Body
+        description: Do NOT use. This exists only for the sole purpose of editing old (pre-CMS) wiki content.
+        type: rich-text
         
 components:
   any-block:
@@ -28,7 +26,7 @@ components:
     type: block
     list:
       collapsible:
-        summary: "{index}: {fields._name}"
+        summary: "{index}: {fields.alt}"
     blockKey: _type # Optional: customize the key used to store the block name, defaults to `_block`
     blocks:
       # Each item defines a possible block structure the user can select.
@@ -70,10 +68,11 @@ components:
     label: Markdown
     type: object
     fields:
-      - name: _name
+      - name: alt
         label: Section Label
         description: Not actually included in the wiki. Exists only to make the collapsed sections more readable.
         type: string
+        default: Content
       - name: value
         label: Text Content
         type: rich-text
