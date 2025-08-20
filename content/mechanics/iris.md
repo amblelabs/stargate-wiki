@@ -44,7 +44,7 @@ blocks:
     value: |-
       ## Recipes:
 
-      `INSERT IMAGES HERE`
+      This is how you make each Iris level!
 ---
 ![iris](images/irisdefault.png)
 
