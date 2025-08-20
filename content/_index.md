@@ -1,10 +1,9 @@
 ---
 title: Stargate Wiki
-cascade:
-  type: docs
 blocks:
   - _type: local-image
     src: /stargate-wiki/images/logo.png
+    alt: stargate mod logo
   - _type: text
     alt: Content
     value: The wiki has not yet been written, come back later!
