@@ -2,7 +2,6 @@
 title: Address Cartouche
 type: cms
 blocks:
-  - _type: text
-    alt: Content
-    value: COMING SOON!
+  - _type: local-image
+    src: /stargate-wiki/images/coming_soon.png
 ---
