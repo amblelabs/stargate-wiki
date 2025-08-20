@@ -1,6 +1,5 @@
 ---
 title: Adding Point Of Origins
-type: cms
 blocks:
   - _type: text
     alt: Content

@@ -52,7 +52,7 @@ params:
 
   editURL:
     enable: true
-    base: "https://amblelabs.github.io/stargate-wiki/edit/main/content"
+    base: "https://github.com/amblelabs/stargate-wiki/edit/main/content"
 
   comments:
     enable: true

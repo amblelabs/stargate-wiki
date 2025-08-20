@@ -1,6 +1,5 @@
 ---
 title: Wormholes / Kawoosh
-type: cms
 blocks:
   - _type: local-image
     src: /stargate-wiki/mechanics/wormhole.png

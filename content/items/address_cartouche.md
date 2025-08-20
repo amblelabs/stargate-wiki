@@ -1,6 +1,5 @@
 ---
 title: Address Cartouche
-type: cms
 blocks:
   - _type: local-image
     src: /stargate-wiki/images/coming_soon.png

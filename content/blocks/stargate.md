@@ -1,6 +1,5 @@
 ---
 title: Stargate
-type: cms
 blocks:
   - _type: text
     alt: Obtaining a Stargate
