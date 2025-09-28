@@ -43,8 +43,9 @@ blocks:
       *   Replace **mod\_id** with the mods id, **dimension\_name** with the
       name of the dimension
           
-      *   Replace **CHARACTER** With any letter / symbol listed bellow ( DO NOT
-      USE: `W`, `F`, `Q` as the mod already uses these letters)
+      *   Replace **CHARACTER** With any letter / symbol listed bellow ( **DO
+      NOT USE:** `W`**,** `F`**,** `Q` **as the mod already uses these
+      letters**)
           
 
       > ```
